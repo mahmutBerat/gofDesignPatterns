@@ -1,4 +1,4 @@
-package com.password;
+package com.tour;
 
 import com.Trip;
 
